@@ -8,6 +8,5 @@
 
 @import url('https://riddim-glitch.github.io/New Age/New Age.css');
 
-:root {
-  --username-colour: red;
-}
+/* Bottom Side Server Bar, Disabled by Default */
+/* @import url("https://discordstyles.github.io/HorizontalServerList/bottomhsl.css"); */
