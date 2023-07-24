@@ -1,2 +1,5 @@
 // This will be the left sidebar.
 // This means: channel list, dms, user area, currently playing, ect...
+@use './channelselector';
+@use './channelemoji';
+@use './memberlist';

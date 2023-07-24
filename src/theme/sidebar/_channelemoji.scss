@@ -1,0 +1,35 @@
+// This is specifically for the chanel emoji experiment.
+// Without the experiment enabled, the default channel icons will be used.
+.iconContainer-21RCa3{
+    background-color: var(--background-secondary-alt);
+    border-radius: 50%;
+}
+.iconContainer-21RCa3 .icon-2W8DHg{
+    padding: 4px
+}
+
+.iconContainer-21RCa3:has(+ .channelEmoji-NJOZuV){
+
+    position: absolute;
+    left: 18px;
+    bottom: -2px;
+    width: 14px;
+    height: 14px;
+}
+.iconContainer-21RCa3:has(+ .channelEmoji-NJOZuV) .icon-2W8DHg{
+    height: 12px;
+    width: 12px;
+    margin: 1px;
+    padding: 0
+}
+
+
+.linkWithChannelEmoji-3T2y0p{
+    padding: 6px 8px;
+}
+.channelEmojiRightOfIcon-2GcYRh, .iconContainer-21RCa3, .channelEmoji-NJOZuV{
+    margin-right: 12px
+}
+.emojiColorFill-3g46kH{
+        border-radius: 4px
+}
