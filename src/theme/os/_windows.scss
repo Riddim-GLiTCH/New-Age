@@ -22,7 +22,7 @@
     color: var(--header-primary);
 }
 .wordmarkWindows-2dq6rw::after {
-    content: "New Age";
+    content: var(--TitleBarText);
     display: flex;
     width: fit-content;
     font-size: 12px;
