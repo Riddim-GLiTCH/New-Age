@@ -10,3 +10,9 @@
 
 /* Bottom Side Server Bar, Disabled by Default */
 /* @import url("https://discordstyles.github.io/HorizontalServerList/bottomhsl.css"); */
+:root {
+  /* Customizable variables. */
+  /* Custom Title bar Text! Default is "New Age" NOTE: This feature is exclusive to Windows. Linux and MacOS don't use the same Titlebar renderer as Windows does.*/
+  /* Third party clients might support it, but its not guaranteed. I will not be adding support for it either. Do it yourself if you really want it. */
+  --TitleBarText: "New Age";
+}

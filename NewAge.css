@@ -459,7 +459,7 @@
 }
 
 .wordmarkWindows-2dq6rw::after {
-  content: "New Age";
+  content: var(--TitleBarText);
   display: flex;
   width: -moz-fit-content;
   width: fit-content;
